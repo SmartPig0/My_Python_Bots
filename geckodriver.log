@@ -1,0 +1,551 @@
+1658065508445	geckodriver	INFO	Listening on 127.0.0.1:59819
+1658065511459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofilePaPuhu"
+1658065515155	Marionette	INFO	Marionette enabled
+1658065515161	Marionette	INFO	Listening on port 59830
+WebDriver BiDi listening on ws://localhost:59820
+Read port: 59830
+1658065516171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofilePaPuhu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59820/devtools/browser/a754f552-685f-44a1-9199-6d39e8b371e8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658065892562	Marionette	INFO	Stopped listening on port 59830
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658065976471	geckodriver	INFO	Listening on 127.0.0.1:59914
+1658065979523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileSPm7fD"
+1658065980053	Marionette	INFO	Marionette enabled
+1658065980063	Marionette	INFO	Listening on port 59925
+WebDriver BiDi listening on ws://localhost:59915
+Read port: 59925
+1658065981078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileSPm7fD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59915/devtools/browser/1fc80f7d-132e-4e1f-b647-43d5cfeec6d0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iN6o4/yt/l/pt_PT/vo8e3EwCDmgZdT77GEb6KJfYOx1FoQQ23Yn31b-fBbZAyJ0VuVhxwPT9KjsubdqhhRDvsld1o4eCK7OB8QnfiSBsf3F60rTk96OQH96JaYi8UFAMcLBiTKpwWKvBKhhsN-_gBeRnVIPib5bF78v5buq8OrU4GNTR-U2JjrxKerUNESqZZxoCXpW6SQtvXCv7FFxXFr06_Flt2gcbnZzvJ1xyUuprV-u3-VLGAt-a2aWXarw1dkZkbJUT5a3CTh4hi8-TCgvBMN2_e661IrT0fjUF8Jfk56mInbsZJhJDQDrZjMgoyaQDhLiw-no5c4x6kT6Ngw-x47.js?_nc_x=Ij3Wp8lg5Kz, line 13: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iN6o4/yt/l/pt_PT/vo8e3EwCDmgZdT77GEb6KJfYOx1FoQQ23Yn31b-fBbZAyJ0VuVhxwPT9KjsubdqhhRDvsld1o4eCK7OB8QnfiSBsf3F60rTk96OQH96JaYi8UFAMcLBiTKpwWKvBKhhsN-_gBeRnVIPib5bF78v5buq8OrU4GNTR-U2JjrxKerUNESqZZxoCXpW6SQtvXCv7FFxXFr06_Flt2gcbnZzvJ1xyUuprV-u3-VLGAt-a2aWXarw1dkZkbJUT5a3CTh4hi8-TCgvBMN2_e661IrT0fjUF8Jfk56mInbsZJhJDQDrZjMgoyaQDhLiw-no5c4x6kT6Ngw-x47.js?_nc_x=Ij3Wp8lg5Kz, line 13: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iN6o4/yt/l/pt_PT/vo8e3EwCDmgZdT77GEb6KJfYOx1FoQQ23Yn31b-fBbZAyJ0VuVhxwPT9KjsubdqhhRDvsld1o4eCK7OB8QnfiSBsf3F60rTk96OQH96JaYi8UFAMcLBiTKpwWKvBKhhsN-_gBeRnVIPib5bF78v5buq8OrU4GNTR-U2JjrxKerUNESqZZxoCXpW6SQtvXCv7FFxXFr06_Flt2gcbnZzvJ1xyUuprV-u3-VLGAt-a2aWXarw1dkZkbJUT5a3CTh4hi8-TCgvBMN2_e661IrT0fjUF8Jfk56mInbsZJhJDQDrZjMgoyaQDhLiw-no5c4x6kT6Ngw-x47.js?_nc_x=Ij3Wp8lg5Kz, line 13: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iSMz4/y7/l/pt_PT/XRG1x4kc_WB6RiU9pEGaWi7La2d7WkaDUd8_tR_FayAFda45_Jc2yg4i3OoKLnM9WDZxlRDoTC49daJgQ42urkTTwli1uKn9tJSDb-R24_sYXkgqMgm7NmRR4NWJ6EX0gP7t6CfGHEv7OIG9mjpt2MO06i9mYqQ4j5AJRrjZ20sLVrV_EdNDFU4hFF0KaCuRw-oL17k8Ql-zfDX8yypC68sAsTcN0--h6R_5Hlg7kHalp9rch6G2gOQaE0OOv7R0T_1HcNb4AA-5_zExuHI0xcO23VQx_debc2bKdxzU4-b9vZLXv1lQCNtzayu2o2szSKSYfbH_SG.js?_nc_x=Ij3Wp8lg5Kz, line 14: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iF1Q4/yl/l/pt_PT/jU60_jUKRKMuxbU-iVY9AlvkWd0DN1tyfiCQFcB2YzQVbKcBmZIXl-UzyP-_5M3aL2zB0sd6xOnfuK2X7EZJT7NY3cweZXgmtlyFK0LNSU3yVCmgD8DLrojUBW3iejwGuLmK-O4kfbCJQ3lOTsadJEBmr0ppMRhWv7sSPwl4XdTGHc_OU2OpTyNRZUrvo8e3EwCDmgEOo-kcad9x7AMcLBiTKpwWBeRnVIPib5bZxoCXpW6SQt6kT6Ngw-x47UGGtl6nNHHVv-lCgW-99b2r7hnCaPv9wdXJ3s2UxStWqWmmlyAcT4U6-9UBfUcaKvUtkQJk2qUxPu.js?_nc_x=Ij3Wp8lg5Kz, line 22: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iF1Q4/yl/l/pt_PT/jU60_jUKRKMuxbU-iVY9AlvkWd0DN1tyfiCQFcB2YzQVbKcBmZIXl-UzyP-_5M3aL2zB0sd6xOnfuK2X7EZJT7NY3cweZXgmtlyFK0LNSU3yVCmgD8DLrojUBW3iejwGuLmK-O4kfbCJQ3lOTsadJEBmr0ppMRhWv7sSPwl4XdTGHc_OU2OpTyNRZUrvo8e3EwCDmgEOo-kcad9x7AMcLBiTKpwWBeRnVIPib5bZxoCXpW6SQt6kT6Ngw-x47UGGtl6nNHHVv-lCgW-99b2r7hnCaPv9wdXJ3s2UxStWqWmmlyAcT4U6-9UBfUcaKvUtkQJk2qUxPu.js?_nc_x=Ij3Wp8lg5Kz, line 22: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iF1Q4/yl/l/pt_PT/jU60_jUKRKMuxbU-iVY9AlvkWd0DN1tyfiCQFcB2YzQVbKcBmZIXl-UzyP-_5M3aL2zB0sd6xOnfuK2X7EZJT7NY3cweZXgmtlyFK0LNSU3yVCmgD8DLrojUBW3iejwGuLmK-O4kfbCJQ3lOTsadJEBmr0ppMRhWv7sSPwl4XdTGHc_OU2OpTyNRZUrvo8e3EwCDmgEOo-kcad9x7AMcLBiTKpwWBeRnVIPib5bZxoCXpW6SQt6kT6Ngw-x47UGGtl6nNHHVv-lCgW-99b2r7hnCaPv9wdXJ3s2UxStWqWmmlyAcT4U6-9UBfUcaKvUtkQJk2qUxPu.js?_nc_x=Ij3Wp8lg5Kz, line 22: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yN/l/pt_PT/ox4ZLaE30kR.js?_nc_x=Ij3Wp8lg5Kz, line 110: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658066219545	Marionette	INFO	Stopped listening on port 59925
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1658066239916	geckodriver	INFO	Listening on 127.0.0.1:59997
+1658066242946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofilespk1DV"
+1658066243403	Marionette	INFO	Marionette enabled
+1658066243410	Marionette	INFO	Listening on port 60007
+WebDriver BiDi listening on ws://localhost:59998
+Read port: 60007
+1658066244224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofilespk1DV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59998/devtools/browser/f52f425e-6bc8-490d-b778-90255bfc0ba5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658066912200	Marionette	INFO	Stopped listening on port 60007
+1658066958587	geckodriver	INFO	Listening on 127.0.0.1:60114
+1658066961652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileYv44Tc"
+1658066962135	Marionette	INFO	Marionette enabled
+1658066962143	Marionette	INFO	Listening on port 60124
+WebDriver BiDi listening on ws://localhost:60115
+Read port: 60124
+1658066963067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileYv44Tc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60115/devtools/browser/997b616f-8582-4602-b18d-2abcddb37fd5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658068795349	Marionette	INFO	Stopped listening on port 60124
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658068852062	geckodriver	INFO	Listening on 127.0.0.1:60243
+1658068855098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileeyBO77"
+1658068855598	Marionette	INFO	Marionette enabled
+1658068855610	Marionette	INFO	Listening on port 60253
+WebDriver BiDi listening on ws://localhost:60244
+Read port: 60253
+1658068856865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileeyBO77\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60244/devtools/browser/b327ca58-7959-4b5e-a143-0e21823b62d2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658069162362	Marionette	INFO	Stopped listening on port 60253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1658069231391	geckodriver	INFO	Listening on 127.0.0.1:60370
+1658069234433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofilex0OJCC"
+1658069234909	Marionette	INFO	Marionette enabled
+1658069234917	Marionette	INFO	Listening on port 60380
+WebDriver BiDi listening on ws://localhost:60371
+Read port: 60380
+1658069235796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofilex0OJCC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60371/devtools/browser/2caf2bce-cf30-403e-afae-49435c085c7d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658083005092	Marionette	INFO	Stopped listening on port 60380
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658083069275	geckodriver	INFO	Listening on 127.0.0.1:60640
+1658083072376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileHsbR5a"
+1658083073006	Marionette	INFO	Marionette enabled
+1658083073017	Marionette	INFO	Listening on port 60650
+WebDriver BiDi listening on ws://localhost:60641
+Read port: 60650
+1658083074416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileHsbR5a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60641/devtools/browser/ebccb888-a711-43da-8682-3f97a0017391
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658083183578	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083191445	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083199310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083214656	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083230660	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083238615	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083246487	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083254341	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083262289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083277704	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083285558	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083293514	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083301409	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083309515	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083317809	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083325711	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083333640	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083341679	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083357432	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083373179	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083381141	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083389040	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083396974	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083412793	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083420722	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083428614	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083436522	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083444406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083460403	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083468437	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083476480	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083484476	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083500296	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083508209	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658083523885	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084102365	Marionette	INFO	Stopped listening on port 60650
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658084249510	geckodriver	INFO	Listening on 127.0.0.1:60844
+1658084252571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofile0pxMKE"
+1658084253373	Marionette	INFO	Marionette enabled
+1658084253383	Marionette	INFO	Listening on port 60854
+WebDriver BiDi listening on ws://localhost:60845
+Read port: 60854
+1658084254267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofile0pxMKE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60845/devtools/browser/7d9e5d52-fd42-48a5-a29b-7c56510c84c6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658084883496	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084891515	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084899444	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084907440	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084915367	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084923251	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084931111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084939025	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084946945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084954869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084962793	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084970751	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084978681	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658084994110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658085002179	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658085010167	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658085025925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658085033876	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658085360633	Marionette	INFO	Stopped listening on port 60854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658085622621	geckodriver	INFO	Listening on 127.0.0.1:60992
+1658085625678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileFpmBk4"
+1658085626167	Marionette	INFO	Marionette enabled
+1658085626175	Marionette	INFO	Listening on port 61002
+WebDriver BiDi listening on ws://localhost:60993
+Read port: 61002
+1658085627161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileFpmBk4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60993/devtools/browser/887c47fb-0a7f-4f27-95c8-fd61cbdbc39a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658088733970	geckodriver	INFO	Listening on 127.0.0.1:61337
+1658088736928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofilex1c8zI"
+1658088737491	Marionette	INFO	Marionette enabled
+1658088737499	Marionette	INFO	Listening on port 61348
+WebDriver BiDi listening on ws://localhost:61338
+Read port: 61348
+1658088738899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofilex1c8zI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61338/devtools/browser/0ad7aa9c-445d-4d6e-aa50-a3bc11394aca
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658088760320	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658088907231	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088916794	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088926186	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088935789	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088945327	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088954970	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088960110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088969743	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088979590	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088989340	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658088998888	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658089003882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658089013482	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658089822117	Marionette	INFO	Stopped listening on port 61348
+1658090012959	geckodriver	INFO	Listening on 127.0.0.1:61556
+1658090015977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileO4pUcw"
+1658090018189	Marionette	INFO	Marionette enabled
+1658090018196	Marionette	INFO	Listening on port 61567
+WebDriver BiDi listening on ws://localhost:61557
+Read port: 61567
+1658090019123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileO4pUcw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61557/devtools/browser/9c4d1f35-d837-4ed3-b9a5-3221ef79c152
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658090252794	geckodriver	INFO	Listening on 127.0.0.1:61640
+1658090255848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileLo9lHH"
+1658090256558	Marionette	INFO	Marionette enabled
+1658090256566	Marionette	INFO	Listening on port 61650
+WebDriver BiDi listening on ws://localhost:61641
+Read port: 61650
+1658090257805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Felipe\\AppData\\Local\\Temp\\rust_mozprofileLo9lHH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61641/devtools/browser/3e2b748c-3651-453e-a6c0-c9e2f408c56e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 825: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iPwn4/ym/l/pt_PT/Ct2fsInhpCw.js?_nc_x=Ij3Wp8lg5Kz, line 1174: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3irKv4/yK/l/pt_PT/S9VIsjA_ilE.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

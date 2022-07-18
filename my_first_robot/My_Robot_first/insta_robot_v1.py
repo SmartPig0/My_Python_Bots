@@ -34,13 +34,14 @@ class InstagramBot:
         time.sleep(2)
         user_password.send_keys(Keys.ENTER)
         time.sleep(5)
-        self.curtir_fotos('pikachu')
+# Aqui seleciona a hastag que você deseja curtir as fotos.
+        self.curtir_fotos('pokemoncards')
         time.sleep(2)
         hastag_foto = driver.find_element(By.CLASS_NAME, '_aagw')
         hastag_foto.click()
         time.sleep(5)
         i = 0
-        while i <= 5:
+        while i <= 500:
             curtir_foto = driver.find_element(By.CLASS_NAME, '_aamw')
             curtir_foto.click()
             time.sleep(2)
@@ -48,6 +49,7 @@ class InstagramBot:
             proxima_pagina.send_keys(Keys.ARROW_RIGHT)
             time.sleep(5)
             i += 1
+        print(i)
 # Aqui fazemos uma função para acessar a hastag selecionada
 
     def curtir_fotos(self, hastag):
